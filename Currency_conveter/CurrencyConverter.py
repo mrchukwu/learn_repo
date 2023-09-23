@@ -15,3 +15,4 @@ local_currency = dollars * exchange_rate
 # Display the result usint print()
 # passing the variables dollar and local_currency in the String function.
 print(f"{dollars} dollars is equal to {local_currency} in local currency.")
+print(f"Calculation done...");
